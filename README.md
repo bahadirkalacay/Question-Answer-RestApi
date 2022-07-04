@@ -1,7 +1,5 @@
 # Question-Answer-RestApi
 
-This project is still being developed — PRs, Contributions and Issues are all welcome!
-
 # Getting started
 
 To get the Node server running locally:
